@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/DarrickFauvel/order-summary-component](https://github.com/DarrickFauvel/order-summary-component)
-- Live Site URL: [https://darrickfauvel.github.io/order-summary-component/](https://darrickfauvel.github.io/order-summary-component/)
+- Live Site URL: [https://darrickfauvel.github.io/fem03-order-summary-component/](https://darrickfauvel.github.io/fem03-order-summary-component/)
 
 ## My process
 
