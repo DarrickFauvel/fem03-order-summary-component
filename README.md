@@ -26,17 +26,19 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/DarrickFauvel/order-summary-component](https://github.com/DarrickFauvel/order-summary-component)
+- Solution URL: [https://github.com/DarrickFauvel/fem03-order-summary-component](https://github.com/DarrickFauvel/fem03-order-summary-component)
 - Live Site URL: [https://darrickfauvel.github.io/fem03-order-summary-component/](https://darrickfauvel.github.io/fem03-order-summary-component/)
 
 ## My process
 
 ### Built with
 
+- Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- Parcel
+- Sass
 
 ## Author
 
