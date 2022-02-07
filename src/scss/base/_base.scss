@@ -1,0 +1,29 @@
+body {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 1.6rem;
+  background-color: var(--color-pale-blue);
+  padding: 2rem;
+}
+
+.wave-background {
+  background-image: url('../images/pattern-background-mobile.svg');
+  background-position: top left;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  @media (min-width: 376px) {
+    background-image: url('../images/pattern-background-desktop.svg');
+  }
+}
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+}
