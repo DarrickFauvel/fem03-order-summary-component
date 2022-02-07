@@ -1,0 +1,24 @@
+{
+  "name": "fem03-order-summary-component",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarrickFauvel/order-summary-component.git"
+  },
+  "keywords": [],
+  "author": "Darrick Fauvel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarrickFauvel/order-summary-component/issues"
+  },
+  "homepage": "https://github.com/DarrickFauvel/order-summary-component#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  }
+}
